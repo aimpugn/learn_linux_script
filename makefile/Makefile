@@ -1,4 +1,4 @@
-# Siince the blah target is first, it is the default target and will be run when we run "make"
+# Since the blah target is first, it is the default target and will be run when we run "make"
 blah: blah.o
 	cc blah.o -o blah
 
